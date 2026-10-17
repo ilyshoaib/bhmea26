@@ -1,5 +1,7 @@
 # bhmea26 — CTF writeups
 
+**BHMEA'26 QUALIFYING ROUND**
+
 My writeups and solve scripts for challenges from **Black Hat MEA 2026 CTF** (hosted on FlagYard).
 
 Everything here is for learning. The challenges are over; these notes explain how each one was solved.
